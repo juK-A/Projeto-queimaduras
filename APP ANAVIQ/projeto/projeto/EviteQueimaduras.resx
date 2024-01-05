@@ -1,0 +1,82 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="button2.GenerateMember" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>False</value>
+  </metadata>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>• Evitar que crianças permaneçam na cozinha enquanto cozinhamos.
+• Procurar deixar as panelas nas bocas de trás do fogão, sempre com os cabos virados para trás ou pra o lado, nunca para fora.
+• Verificar o registro do gás e procurar deixar fechado quando não estiver utilizando o fogão.
+• Procure sempre testar a temperatura dos alimentos antes de oferecer as crianças. Assim como a água do banho.
+• Fósforos e isqueiros devem permanecer longe das crianças.
+• Tomar cuidado com velas dentro de casa, pois o fogo pode atingir tecidos como cortinas, tapetes e toalhas. Se propagando assim pela casa.
+• Não forre a mesa com toalhas muito cumpridas, para que elas não puxem.
+• Manter ferro de passar e aparelhos elétricos longe das crianças.
+• Produtos químicos e de limpeza, como álcool, solventes, combustíveis entre outros, devem ser muito bem armazenados.
+• Tente sempre ensinar e conscientizar os pequenos sobre os perigos das queimaduras.
+• Tomar muito cuidado ao soltar balões.
+• Fogos de artifícios devem ser manuseados corretamente e só comprados em locais autorizados.
+• Muito cuidado ao ascender fogueiras e não brincar em volta ou próximo a elas.
+• Nunca ascender churrasqueiras com álcool, principalmente líquido.
+• Tomar cuidado ao deixar celulares carregando por muito tempo na tomada, pois pode ocasionar choques e pequenos incêndios.
+• Filtro solar deve ser usado diariamente. E isso vale pra todos, crianças e adultos, pois ele não só protege da exposição solar. Bem como luzes de led e em geral, que também são prejudiciais.
+</value>
+  </data>
+</root>

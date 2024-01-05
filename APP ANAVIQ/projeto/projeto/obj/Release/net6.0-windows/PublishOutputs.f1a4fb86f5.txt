@@ -1,0 +1,5 @@
+C:\Users\Joao_\source\repos\projeto\projeto\bin\Release\net6.0-windows\publish\projeto.exe
+C:\Users\Joao_\source\repos\projeto\projeto\bin\Release\net6.0-windows\publish\projeto.dll
+C:\Users\Joao_\source\repos\projeto\projeto\bin\Release\net6.0-windows\publish\projeto.deps.json
+C:\Users\Joao_\source\repos\projeto\projeto\bin\Release\net6.0-windows\publish\projeto.runtimeconfig.json
+C:\Users\Joao_\source\repos\projeto\projeto\bin\Release\net6.0-windows\publish\projeto.pdb

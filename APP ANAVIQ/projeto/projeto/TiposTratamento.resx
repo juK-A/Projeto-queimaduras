@@ -1,0 +1,104 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Não passe no local atingido nenhum produto ou receita caseira. Qualquer substância que seja passada sobre a pele queimada vai irritá-la. Há também o alto risco de infecção por bactérias, fungos e vírus presentes nesses produtos, já que a barreira natural do organismo – a pele – está danificada.
+Não passe nenhuma pomada no local atingido. A pele fica extremamente sensível após uma queimadura e as pomadas, ainda que adquiridas em farmácias, machucam ainda mais as células cutâneas e podem irritar a pele e gerar infecções.
+Não tente estourar as bolhas provocadas pela queimadura. Elas se manifestam nas queimaduras de segundo grau e devem ser manuseadas apenas por um profissional especializado. Ou seja, não devem ser rompidas, estouradas ou mesmo esvaziadas com uma agulha.
+Ao retirar esse curativo natural em casa, o ferimento estará exposto a instrumentos possivelmente contaminados e pode infeccionar. Se houver necessidade de cobrir o ferimento a caminho do serviço de Saúde, o indicado é envolvê-lo num pedaço de pano limpo.
+Tecidos ou materiais que grudam no ferimento, como o algodão, devem ser evitados. O paciente queimado não deve retirar a roupa que estiver usando, ainda que houver sido atingida pelo fogo. O ideal é molhar a vestimenta e permanecer assim até a chegada ao pronto-socorro, para evitar que as bolhas estourem e que a pele seja arrancada.
+Outro cuidado é retirar acessórios, como pulseiras e anéis, pois o corpo incha naturalmente após uma queimadura e esses objetos podem ficar presos.
+
+
+
+
+Alimentos bons para a cicatrização:
+- Carnes Magras
+- Peixes Gordurosos
+- Leguminosas
+- Grãos
+- Nozes e castanhas
+- Sementes
+
+
+Banho: A temperatura da água deve ser entre 36 e 39°C.
+
+----------------------------------------------------------------------------------------------
+
+Queimadura de 1º grau:
+São queimaduras superficiais e que têm como característica a vermelhidão da região, inchaço e dor (que pode variar de leve a moderada). Não há formação de bolhas e a pele não se desprende. Após a cicatrização, a pele pode ficar um pouco escura, mas volta ao tom normal com o tempo.
+
+Não necessitam de atendimento médico e, geralmente, melhoram entre 3 e 6 dias. O tratamento consiste apenas em manter a pele e o organismo hidratados. Se a dor for incômoda, um analgésico poderá ajudar.
+
+Queimadura de 2º grau:
+São aquelas que comprometem a epiderme ou derme, acompanhadas de dor mais intensa. Nesses casos é comum o aparecimento de bolhas ou o desprendimento total ou parcial da pele afetada. A recuperação pode deixar cicatrizes e manchas claras ou escuras.
+
+O tratamento é composto de limpeza, desbridamento das bolhas (remoção dos tecidos desvitalizados) e proteção da região afetada. Importante: apenas um profissional de saúde poderá fazer a retirada do tecido desvitalizado.
+
+Queimadura de 3º grau:
+Ocorre a destruição total de todas as camadas da pele e, portanto, são mais graves e, em alguns casos, até fatais. Apesar disso, são as que menos doem, pois, de tão profundas, danificam as terminações nervosas. A região afetada pode ficar esbranquiçada ou escurecida.
+
+Esse tipo de queimadura sempre deixa cicatriz, podendo, inclusive, comprometer a movimentação do local afetado. Nesses casos, o tratamento é mais complexo e demorado, necessitando de internamento, enxertia e até cirurgia plástica.
+
+https://www.vuelopharma.com/como-tratar-queimaduras/
+
+
+</value>
+  </data>
+</root>

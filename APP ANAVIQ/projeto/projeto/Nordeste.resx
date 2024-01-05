@@ -1,0 +1,129 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Bahia:
+
+Hospital Geral do Estado
+Coordenador(a): Carlos Henrique Briglia De Barros
+Av. Vasco da Gama, s/n – Brotas.
+CEP: 40.286-901
+Salvador – BA – Brasil
+(71) 3117-5999 / (71) 8103-4476
+
+Hospital Medicina Humana
+Coordenador(a): Manuelita Martinez
+Rodovia BR 522, Km 02, Estrada de Mataripe x Candeias.
+CEP: 43805-970
+Candeias – BA – Brasil
+(71) 3605-7100
+
+Serviços de Cirurgia Plástica São Rafael
+Coordenador(a): Jiuseppe Benitivoglio Greco Junior
+Av. São Rafael, 2152, São Marcos.
+CEP: 41.256-900 Salvador – BA – Brasil
+(71) 399-6111 / (71) 3281-6520
+</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>Pernambuco:
+
+Unidade de Queimados do Hospital São Marcos
+Coordenador(a): Marcelo José Borges De Miranda
+Av. Portugal, 52, Boa Vista
+CEP: 52.010-010
+Recife – PE – Brasil
+(81) 3217-4589
+
+Unidade de Queimaduras do Hospital da Restauração
+Coordenador(a): Marcos Guilherme P. Barreto
+Av. Agamenon Magalhães, s/n – Derby
+CEP: 52.010-040
+Recife – PE – Brasil
+(81) 3421-5444
+
+Real Hospital Português de Beneficência em Pernambuco
+Coordenador(a): Dr. Luiz Custódio Costa
+Avenida Governador Agamenon Magalhães, Nº 4760
+CEP: 52010-902
+Recife – PE – Brasil
+(81) 3416-1019 / (81) 99972-6699
+</value>
+  </data>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>Paraíba:
+
+Hospital de Emergência e Trauma Senador Humberto
+Coordenador(a): Emilton Amaral
+Av. Orestes Lisboa, s/n – Conjunto Pedro Gondim
+CEP: 58.031-090
+Joao Pessoa – PB – Brasil
+(83) 3216-5736 / (83) 3216-5721</value>
+  </data>
+  <data name="richTextBox6.Text" xml:space="preserve">
+    <value>Ceará:
+
+Instituto Dr. José Frota
+Coordenador(a): Paulo Régis De Oliveira Teixeira
+R. Barão do Rio Branco, 1816, 7º andar – Centro.
+CEP: 60.025-061
+Fortaleza – CE – Brasil
+(85) 3255-5076 / (85) 3255-5000</value>
+  </data>
+</root>

@@ -1,0 +1,4 @@
+Acesse o link, para fazer o download da ferramenta necessária para abrir o programa:
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.11-windows-x64-installer
+
+Após entrar no link, será redirecionado para o download, instale a ferramenta, e va para a pasta "QUEIMAINFO INFORMAÇÕES SOBRE QUEIMADURAS", e abra o arquivo "projeto.exe"

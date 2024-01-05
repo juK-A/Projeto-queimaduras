@@ -1,0 +1,114 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Paraná:
+
+Hospital Universitário Evangélico de Curitiba
+Coordenador(a): – - -
+Rua Augusto Stefeld, 1908 – 5º andar – Bigorrilho
+CEP: 80730150
+Curitiba – PR – Brasil
+(41) 3240-5000
+
+Hospital Universitário de Londrina
+Coordenador(a): – - -
+Av. Robert Koch, 60, Operária
+Londrina – PR – Brasil
+(43) 3371-2694 / (43) 3324-3961</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Santa Catarina:
+
+Hospital Infantil Joana de Gusmão
+Coordenador(a): – - -
+Rua Rui Barbosa, 152 – Agronômica
+CEP: 88025301
+Florianopolis – SC – Brasil
+(48) 3251-9000
+
+Hospital Municipal de São José de Joinville
+Coordenador(a): – - -
+Av. Getúlio Vargas, 232 – Centro
+CEP: 89202000
+Joinville – SC – Brasil
+(47) 3441-6666 / (47) 3441-6628</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>A.C. Santa Casa do Rio Grande – Centro de Referência em Assistência a Queimados
+Coordenador(a): – - -
+Rua General Osório, 625 – Centro
+CEP: 96200-400
+Rio Grande – RS – Brasil
+(53) 32337100 Ramal 274 / (53) 30368725
+
+Hospital Pronto Socorro de Porto Alegre
+Coordenador(a): – - -
+Largo Teodoro Hertz, s/n – Bom Fim
+CEP: 90040192
+Porto Alegre – RS – Brasil
+(51) 3289-7999
+
+Hospital Cristo Redentor
+Coordenador(a): – - -
+Rua Domingos Rubbo nº 20
+Porto Alegre – RS – Brasil
+(51) 3357-4100</value>
+  </data>
+</root>

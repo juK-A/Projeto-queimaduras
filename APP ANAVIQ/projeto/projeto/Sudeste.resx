@@ -1,0 +1,281 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>São Paulo - Capital:
+
+Hospital das Clínicas da Faculdade Medicina USP
+Coordenador(a): Dr. David de Souza Gomes
+Av: Dr. Enéas Carvalho Aguiar 255, 8°andar sala 8128
+Cerqueira Cesar
+CEP: 05403-900
+São Paulo – SP – Brasil
+(11) 2661-0000 e (11) 2661-7568
+
+Hospital do Servidor Público Estadual/Francisco Morato
+Coordenador(a): Dr. Leão Faiwichow
+Rua Pedro de Toledo, 1800 Vila Clementino
+CEP: 040039-004
+São Paulo – SP – Brasil
+(11) 4573-8000
+
+Hospital Geral de São Mateus
+Coordenador(a): Dr. Raul Tellerman
+Rua Ângelo de Cândia, 540 São Mateus
+CEP: 03958-000
+São Paulo – SP – Brasil
+(11) 2014-5000
+
+Hospital Geral de Vila Penteado/Dr. Jose Pangella
+Coordenador(a): Dra. Elaine Marlene Tacla
+Av Ministro Petrônio Portela, 1642, Jardim Iracema
+CEP: 02802-120
+São Paulo – SP – Brasil
+(11) 3976-9911 Ramal 249
+
+Hospital Municipal Dr. Cármino Caricchio Tatuapé
+Coordenador(a): Dr. Vitor Buaride
+Av Celso Garcia, 4815
+CEP: 03063-000
+São Paulo – SP – Brasil
+(11) 3394-6980
+
+Hospital São Paulo/UNIFESP
+Coordenador(a): Dra. Andrea Fernandes de Oliveira
+Rua Napoleão de Barros, 715, Vila Clementino
+CEP: 04024-002
+São Paulo – SP – Brasil
+(11) 5576-4760 / (11) 5576-4761</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>São Paulo - Interior:
+
+Santa Casa de Limeira
+Coordenador(a): Dr. Eduardo Nogueira Segato
+Av Antonio Ometto, 598, Vila Claudia
+CEP: 13480-470
+Limeira – SP – Brasil
+(19) 3446-6100 Ramal: 6242 ou 6133
+
+Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto USP
+Coordenador(a): Dr. Jayme A. Farina Junior
+Rua Bernardino de Campos 1000, Higienópolis
+CEP: 14015-130
+Ribeirão Preto – SP – Brasil
+(16) 3602-1140
+
+Hospital Escola Padre Albino de Catanduva
+Coordenador(a): Dr. Jose Antônio Sanches
+Rua Belém, 519, Centro
+CEP: 15800-000
+Catanduva – SP – Brasil
+(17) 3311-3095
+
+Conjunto Hospitalar Sorocaba
+Coordenador(a): Dr. Flavio Stillitano
+Av Comendador Pereira Inácio, 564, Jardim Vergueiro
+CEP: 18030-005
+Sorocaba – SP – Brasil
+(15) 3332-9100
+
+Hospital Estadual de Bauru/Dr. Arnaldo Prado Curvêllo
+Coordenador(a): Dra. Cristiane Rocha
+Av Engenheiro Luiz Edmundo Carrijo Coube, 1-100 Pres. Geisel
+CEP: 17033-360 Bauru – SP – Brasil
+(14) 3103-7777 Ramal 3424
+
+Santa Casa de Misericórdia de Guaratinguetá
+Coordenador(a): Dr. Marcelo Malta
+Rua Rangel Pestana, 194, Centro
+CEP: 12501-090
+Guaratinguetá – SP – Brasil
+(12) 2131-1900
+
+Santa Casa de Marília
+Coordenador(a): Dr. João Evaristo Puzzi Bono
+Av Vicente Ferreira, 828, Cascata
+CEP: 17515-900
+Marília – SP – Brasil
+(14) 3402-5555
+
+Irmandade de Santa Casa da Misericórdia de Santos
+Coordenador(a): Dr. Sylvio Corrêa da Silva Junior
+Av Dr. Claudio Luis da Costa, 50 Jabaquara, Caixa Postal 439
+CEP: 11075-900
+Santos – SP – Brasil
+(13) 3202-0600
+
+Irmandade de Misericórdia de Campinas
+Coordenador: Flavio Nadruz Novaes
+Av. Benjamin Constant, 1657 – Conceição
+Campinas – SP – Brasil
+(19) 2515- 3100 ramal 6
+
+Santa Casa de São Jose dos Campos
+Coordenador(a): Dra. Gilka Barbosa Lima Nery
+Av Dolzani Ricardo, 620, Centro
+CEP: 12210-110
+São Jose dos Campos – SP – Brasil
+(12) 3876-1999 Ramal 1841</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>Rio de Janeiro:
+
+Clínica São Vicente
+Coordenador(a): – - -
+Rua João Borges, 204 – Gávea
+Rio de Janeiro – RJ – Brasil
+(21) 2529-4422
+
+HFAG Hospital da Força Aérea do Galeão
+Coordenador(a): - – -
+Estrada do Galeão, 4101
+CEP:21941000
+Rio de Janeiro – RJ – Brasil
+(21) 2468-5100 / (21)2468-5253
+
+Hospital do Andaraí
+Coordenador(a): – - -
+Rua Leopoldo, 128 – Andaraí
+Rio de Janeiro – RJ – Brasil
+(21) 2288-5541
+
+Hospital Municipal Souza Aguiar
+Coordenador(a): – - -
+Praça da República, 111 – Centro
+Rio de Janeiro – RJ – Brasil
+(21) 3111-2678 / (21) 3111-2774
+
+Hospital Pedro II
+Coordenador(a): – - -
+Rua do Prado, 325 – Santa Cruz
+Rio de Janeiro – RJ – Brasil
+(21) 3395-0123</value>
+  </data>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>Minas Gerais: 
+
+Associação Hospitalar Santa Rosália
+Coordenador(a): Rosalia / Marcos
+Rua Alta da Catedral, s/n Centro – Teófilo Otoni
+CEP: 39800-000
+MG – Brasil
+(33) 3529-1500 / (33) 3529-1509
+
+Fundação de Assistência, Estudo e Pesquisa de Uberlândia
+Coordenador(a): Julio Danti Bonetti
+Av. Pará, 1720
+CEP: 38.405-320
+Uberlândia – MG – Brasil
+(34) 3218-2159
+
+Hospital João XXIII FHEMIG
+Coordenador(a): Carlos Eduardo Guimarães Leão
+Avenida Professor Alfredo Balena, 400
+CEP: 30130-100
+Belo Horizonte - MG – Brasil
+(31) 3239-9345 / (31) 3239-9200
+
+Hospital Universitário de Juiz de Fora
+Coordenador(a): —
+Rua Dom Viçoso
+CEP: 36026-390
+Município Belo Horizonte – MG – Brasil
+(32) 3239-8282
+
+Irmandade Nossa Senhora das Mercês Santa Casa de Montes Claros
+Coordenador(a): Dr. Sérgio Rocha Souza
+Praça Honorato Alves, 22 Centro
+CEP: 39400-103
+Montes Claros – MG – Brasil
+(38) 3229-2401 / (38) 3229-2030/ (38) 3229-2000
+
+Santa Casa de Misericórdia de Juiz de Fora
+Coordenador(a): – - -
+Av. Barão do Rio Branco, 3353, Alto dos Passos
+CEP: 36021-630
+Juiz De Fora – MG – Brasil
+(32) 3229-2222 / (32) 3216-2557 / (32) 3602-1630</value>
+  </data>
+  <data name="richTextBox5.Text" xml:space="preserve">
+    <value>Espírito Santo:
+
+Hospital Dório Silva
+Coordenador(a): – - -
+Av. Eudes Scherrer de Souza, s/n, Parque Residencial
+Laranjeiras.
+CEP: 29.165-680 ES – Brasil
+(27) 3328-5455 / (27) 3138-8906 / (27) 3138-8910 – Ramal 247
+
+Hospital Infantil
+Coordenador(a): – - -
+Rua Alameda Mari Ubirajara – Santa Lúcia.
+CEP: 29.056-030 ES – Brasil
+(27) 3636-7500
+
+Vitória Apart Hospital
+Coordenador(a): Ariosto da Silva Santos Fiho / Davi Mollo
+Rodovia BR-101 Norte, KM 2, 38 Boa Vista II.
+CEP: 29161-900
+Serra – ES – Brasil
+(27) 3201-5563 / (27) 3201-5555
+
+</value>
+  </data>
+</root>

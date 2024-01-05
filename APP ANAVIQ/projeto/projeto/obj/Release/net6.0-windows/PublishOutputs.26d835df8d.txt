@@ -1,0 +1,5 @@
+C:\Users\Joao_\Desktop\Faculdade\ELVIO\APLICATIVO QUEIMAINFO\projeto.exe
+C:\Users\Joao_\Desktop\Faculdade\ELVIO\APLICATIVO QUEIMAINFO\projeto.dll
+C:\Users\Joao_\Desktop\Faculdade\ELVIO\APLICATIVO QUEIMAINFO\projeto.deps.json
+C:\Users\Joao_\Desktop\Faculdade\ELVIO\APLICATIVO QUEIMAINFO\projeto.runtimeconfig.json
+C:\Users\Joao_\Desktop\Faculdade\ELVIO\APLICATIVO QUEIMAINFO\projeto.pdb

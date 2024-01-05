@@ -1,0 +1,120 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Mato Grosso:
+
+Pronto-Socorro de Cuiabá
+Coordenador(a): Manoel Rômulo Rizental Pinto / Henrique Laboissiere Da Silva
+Avenida General Vale, 192
+CEP: 78.010-100 Cuiabá – MT – Brasil
+(65) 3617-7812 /(65) 3623-2079</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Goiás:
+
+Hospital de Urgência Governador Otávio Lage de Siqueira – HUGOL
+Coordenador(a): Dr. Fabiano Calixto Fortes de Arruda
+R. 7, n 382 – Setor Santos Dumont
+CEP: 74463-490 Goiânia – GO – Brasil
+(62) 3270 6735
+
+Hospital de Queimaduras
+Coordenador(a): Dr. Leonardo Rodrigues da Cunha
+Av. Divino Pai Eterno, nº 950 Vila Góis
+CEP: 75120-370 Anápolis – GO – Brasil
+(62) 3902 6800
+www.hqueimaduras.com.br
+
+Pronto Socorro para Queimaduras
+Coordenador(a): Maria Thereza Piccolo
+Rua Dona Maria Belchior Cruvinel, 439, Setor Oeste
+CEP: 74115060
+Goiânia – GO – Brasil
+(62) 224-4130
+</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>Distrito Federal (DF):
+
+Hospital Regional da Asa Norte – HRAN
+Diretor(a): Mario Frattini G. Ramos
+SMHN Q. 101 Bloco A Asa Norte
+Brasília – DF – Brasil
+(61) 3325-4213 / (61) 3325-4347
+
+Clínica Nelson Piccolo
+Coordenador(a): Maria Thereza Sarto Piccolo
+SGAN, 608 Norte Módulo F
+Brasília – DF – Brasil
+(61) 3262 2200
+www.grupopiccolo.com.br
+</value>
+  </data>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>Mato Grosso do Sul:
+
+Serviço de Cirurgia Plástica e Queimaduras da Santa Casa de Campo Grande
+Coordenador(a): Marialda Goulart de Almeida Pedreira
+R: Eduardo Santos Pereira, 88 – Bairro São Francisco
+CEP: 79.002-250
+Campo Grande – MS – Brasil
+(67) 3322-4000 / (67) 3322-4199 / (67) 9981-0110</value>
+  </data>
+</root>

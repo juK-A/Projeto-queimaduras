@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Joao_\AppData\Local\Temp\Rar%24DRa20788.1972\projeto\projeto\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="CentroOeste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CRED.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EviteQueimaduras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hospitais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nordeste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nordeste1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrimeirosSocorros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QueimaduraFisica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QueimaduraQuimicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QueimadurasBiologicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sudeste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TiposQueimadura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TiposTratamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
